@@ -27,4 +27,4 @@ This project was completed as part of university coursework.
 ## 🚀 How to Run
 1. Clone the repository
 2. Open in IntelliJ / Eclipse
-3. Run `Main.java`
+3. Run `CustomerFrame.java`
